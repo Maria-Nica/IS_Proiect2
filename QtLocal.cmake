@@ -1,0 +1,1 @@
+set(CMAKE_PREFIX_PATH "D:/QT/6.9.3/msvc2022_64")
